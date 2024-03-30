@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Cambiar el color de fondo según el tema */
+}
+
+.photo {
+  height: 600px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
